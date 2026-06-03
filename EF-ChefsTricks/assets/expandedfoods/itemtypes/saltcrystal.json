@@ -6,7 +6,7 @@
 	],
 	"shape": { "base": "item/saltcrystal" },
 	"attributes": {
-		"inContainerTexture": { "base": "block/wood/barrel/salt" },
+		"inContainerTexture": { "base": "game:block/wood/barrel/salt" },
 		"displaycaseable": true, "shelvable": true,
 		"bakingPropertiesByType": {
 			"*-damp": {
