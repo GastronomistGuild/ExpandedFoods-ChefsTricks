@@ -3,7 +3,7 @@
 	"ingredientPattern": "P,B",
 	"recipeGroup": 1,
 	"ingredients": {
-		"P": { "type": "block", "code": "expandedfoods:bowl-peat-*" },
+		"P": { "type": "block", "code": "efchefstricks:bowl-peat-*" },
 		"B": { "type": "block", "code": "game:bowl-*-fired", "returnedStack": { "type": "block", "code": "game:air" }, "name": "bowl" }
 	},
 	"attributes": {

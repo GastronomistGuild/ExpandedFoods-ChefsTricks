@@ -8,6 +8,7 @@
   "block-bowl-peat-orange": "Orange ceramic bowl of peat",
   "block-bowl-peat-red": "Red ceramic bowl of peat",
   "block-bowl-peat-tan": "Tan ceramic bowl of peat",
+  "block-bowl-peat-earthyorange": "Earthy orange ceramic bowl of peat",
   "blockdesc-bowl-peat-*": "Mix with oil or lard to make a lamp!",
   "item-handbooktitle-bowl-peat": "Bowl of Peat",
   "item-handbooktext-bowl-peat":"Now that it's in a bowl, this peat just needs a little bit of fat/oil and a spark to become a perfect lamp.",
@@ -21,5 +22,34 @@
   "item-handbooktext-saltcrystal-dry":"This item will only be produced when <a href=\"handbook://simmeringguide\">simmered</a> in a mini cauldron or full-sized cauldron. Saucepans are too small to fit the minimum amount of water required.",
 
   "item-handbooktitle-saltcrystal-damp": "Salt Processing",
-  "item-handbooktext-saltcrystal-damp":"These damp salt crystals are produced by sealing brine or salt water into a barrel for 10 days. They will dry out in 14 days, and may be crushed into powder form afterwards."
+  "item-handbooktext-saltcrystal-damp":"These damp salt crystals are produced by sealing brine or salt water into a barrel for 10 days. They will dry out in 14 days, and may be crushed into powder form afterwards.",
+
+  "item-softresin": "Fresh resin portion",
+  "incontainer-item-softresin": "Fresh resin",
+  "game:incontainer-item-softresin": "Fresh resin",
+  "incontainer-item-resin": "resin",
+  "game:incontainer-item-resin": "resin",
+  "itemdesc-softresin": "Needs 700-1000 mL and 10 days to harden into <a href=\"handbook://item-efchefstricks:hardresin\">resin</a>.",
+  "item-handbooktitle-softresin": "Fresh Resin",
+  "item-handbooktext-softresin": "Collected by placing a <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">spile</a> into an acacia or pine log and a liquid container directly beneath it.<br>Pine trees produce resin from March to November.<br>Acacia trees produce resin from April to September.",
+
+  "item-hardresin": "Resin portion",
+  "incontainer-item-hardresin": "Hardened resin",
+  "game:incontainer-item-hardresin": "Hardened resin",
+  "itemdesc-hardresin": "Dump out a bucket full of hardened resin to acquire <a href=\"handbook://item-resin\">resin</a>.",
+  "item-handbooktitle-hardresin": "Hardened Resin (liquid)",
+  "item-handbooktext-hardresin": "Liquid resin that has hardened, but is still inside of a liquid container. While holding the container, press <hk>Ctrl</hk>+<icon name='rightmousebutton'></icon> to empty it onto the ground, producing a chunk of <a href=\"handbook://item-resin\">resin</a>.",
+
+  "item-breadcrumbfeed" : "Bread crumb animal feed",
+  "itemdesc-breadcrumbfeed": "Feed comprised of various bread crumbs.",
+  "item-handbooktitle-breadcrumbfeed": "Bread Crumb Animal Feed",
+  "item-handbooktext-breadcrumbfeed": "This is an ideal food to make when there are too many types of bread crumbs floating around, although it isn't edible for Seraphs. Many animals will eat it, making it a very cheap food option for maintaining livestock populations.",
+  
+  "item-washedeggshell": "Washed egg shells",
+  "itemdesc-washedeggshell": "Purified by water, ready for pressure.",
+  "item-handbooktitle-washedeggshell": "Washed Egg Shells",
+  "item-handbooktext-washedeggshell": "After being soaked, these egg shells have lost many nutrients. However, this loss has made it easier to grind the shells and utilize the lime left within.",
+
+  "efchefstricksguide-title": "Expanded Foods: Chef's Tricks",
+  "efchefstricksguide-text": "<strong>Expanded Foods: Chef's Tricks</strong><br><i>Getting started.</i><br><strong>REQUIRES 'A CULINARY ARTILLERY' AND 'EXPANDED FOODS: CORE' MODS TO FUNCTION</strong><br><br><strong>Introduction</strong><br><a href=\"handbook://item-efchefstricks:softresin\">Fresh Resin</a> can be collected from pine trees in March through November; or acacia trees in April through September.<br><strong><a href=\"handbook://item-salt\">Salt</a></strong><br>Seal 10 L of salt water or 5 L of brine in a barrel to make a <a href=\"handbook://item-efchefstricks:saltcrystal-damp\">damp salt crystal</a>. You can also Boil the same amounts to get a <a href=\"handbook://item-efchefstricks:saltcrystal-dry\">dry salt crystal</a>. You can mix 25 L of water with 1 halite stone to output 25 L of salt water, making Halite worth 2.5 salt if you fully optimize the process. Damp salt crystals must dry into dried salt crystals. Dried salt crystals can be ground in the quern to make salt."
 }
