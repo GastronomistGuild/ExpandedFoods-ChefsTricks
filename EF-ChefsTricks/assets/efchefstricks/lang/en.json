@@ -1,0 +1,25 @@
+{
+  "block-bowl-peat-blue": "Dark brown ceramic bowl of peat",
+  "block-bowl-peat-fire": "Fireclay ceramic bowl of peat",
+  "block-bowl-peat-black": "Black ceramic bowl of peat",
+  "block-bowl-peat-brown": "Brown ceramic bowl of peat",
+  "block-bowl-peat-cream": "Cream ceramic bowl of peat",
+  "block-bowl-peat-gray": "Gray ceramic bowl of peat",
+  "block-bowl-peat-orange": "Orange ceramic bowl of peat",
+  "block-bowl-peat-red": "Red ceramic bowl of peat",
+  "block-bowl-peat-tan": "Tan ceramic bowl of peat",
+  "blockdesc-bowl-peat-*": "Mix with oil or lard to make a lamp!",
+  "item-handbooktitle-bowl-peat": "Bowl of Peat",
+  "item-handbooktext-bowl-peat":"Now that it's in a bowl, this peat just needs a little bit of fat/oil and a spark to become a perfect lamp.",
+
+  "item-saltcrystal-damp": "Salt crystal (damp)",
+  "item-saltcrystal-dry": "Salt crystal (dry)",
+  "itemdesc-saltcrystal-damp": "Wrenched from the waters.",
+  "itemdesc-saltcrystal-dry": "Some things need to be crushed.",
+
+  "item-handbooktitle-saltcrystal-dry": "Salt Processing",
+  "item-handbooktext-saltcrystal-dry":"This item will only be produced when <a href=\"handbook://simmeringguide\">simmered</a> in a mini cauldron or full-sized cauldron. Saucepans are too small to fit the minimum amount of water required.",
+
+  "item-handbooktitle-saltcrystal-damp": "Salt Processing",
+  "item-handbooktext-saltcrystal-damp":"These damp salt crystals are produced by sealing brine or salt water into a barrel for 10 days. They will dry out in 14 days, and may be crushed into powder form afterwards."
+}

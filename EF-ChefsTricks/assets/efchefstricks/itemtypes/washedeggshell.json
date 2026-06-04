@@ -6,13 +6,13 @@
   ],
   "attributes": {
     "handbook": {
-      "extraSections": [{ "title": "expandedfoods:item-handbooktitle-washedeggshell",  "text": "expandedfoods:item-handbooktext-washedeggshell" }]
+      "extraSections": [{ "title": "efchefstricks:item-handbooktitle-washedeggshell",  "text": "efchefstricks:item-handbooktext-washedeggshell" }]
     },
     "inContainerTexture": {"base": "block/wood/barrel/eggshell" }
   },
   "shape": { "base": "item/washedeggshell" },
   "texture": { "base": "game:block/wood/henbox/egg" },
-  "creativeinventory": { "general": ["*"], "items": ["*"], "aculinaryartillery": ["*"] },
+  "creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
   "grindingProps": {
     "groundStack": {  "type": "item", "code": "game:lime", "quantity": 1 }
   },

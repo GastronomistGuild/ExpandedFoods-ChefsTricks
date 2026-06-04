@@ -3,7 +3,7 @@
 	"attributes": {
 		"foodTags": [ "breadcrumbfeed", "eggshell" ],
         "handbook": {
-          "extraSections": [{ "title": "expandedfoods:item-handbooktitle-breadcrumbfeed", "text": "expandedfoods:item-handbooktext-breadcrumbfeed" }]
+          "extraSections": [{ "title": "efchefstricks:item-handbooktitle-breadcrumbfeed", "text": "efchefstricks:item-handbooktext-breadcrumbfeed" }]
         }
     },
 	"creativeinventory": {
@@ -38,9 +38,9 @@
 		"scale": 0.79
 	},
 	"groundTransform": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 0 },
-			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
-			"scale": 1.25
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+		"scale": 1.25
 	}
 }

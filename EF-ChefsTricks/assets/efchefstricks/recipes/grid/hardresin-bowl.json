@@ -5,7 +5,7 @@
 	},
 	"attributes": {
 		"liquidContainerProps": {
-			"requiresContent": { "type": "item", "code": "expandedfoods:hardresin" },
+			"requiresContent": { "type": "item", "code": "efchefstricks:hardresin" },
 			"requiresLitres": 0.1
 		}
 	},		

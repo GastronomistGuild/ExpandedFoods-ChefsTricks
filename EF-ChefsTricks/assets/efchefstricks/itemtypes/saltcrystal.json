@@ -15,12 +15,12 @@
 				"levelTo": 0.25,
 				"startScaleY": 1,
 				"endScaleY": 1,
-				"resultCode":  "expandedfoods:saltcrystal-dry"
+				"resultCode":  "efchefstricks:saltcrystal-dry"
 			}
         },
         "handbook": {
             "extraSections": 
-               [{ "title": "expandedfoods:item-handbooktitle-saltcrystal-{type}" , "text": "expandedfoods:item-handbooktext-saltcrystal-{type}" }]
+               [{ "title": "efchefstricks:item-handbooktitle-saltcrystal-{type}" , "text": "efchefstricks:item-handbooktext-saltcrystal-{type}" }]
         }
     },
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
@@ -53,7 +53,7 @@
 			"meltingDuration": 15,
 			"smeltedRatio": 1,
 			"smeltingType": "bake",
-			"smeltedStack": { "type": "item", "code": "expandedfoods:saltcrystal-dry" },
+			"smeltedStack": { "type": "item", "code": "efchefstricks:saltcrystal-dry" },
 			"requiresContainer": false
 		}
 	},

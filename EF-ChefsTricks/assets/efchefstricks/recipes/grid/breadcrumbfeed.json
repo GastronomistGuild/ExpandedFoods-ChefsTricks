@@ -6,6 +6,6 @@
 	"width": 1,
 	"height": 1,
 	"shapeless": true,
-	"output": { "type": "item", "code": "expandedfoods:breadcrumbfeed", "quantity": 1  },
+	"output": { "type": "item", "code": "efchefstricks:breadcrumbfeed", "quantity": 1  },
 	"enabled": true
 }

@@ -55,8 +55,4 @@
         </Content>
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="assets\expandedfoods\recipes\simmering\" />
-    </ItemGroup>
-
 </Project>
