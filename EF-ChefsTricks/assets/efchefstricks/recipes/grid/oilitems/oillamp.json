@@ -3,8 +3,8 @@
 	"ingredientPattern": "P,B",
 	"recipeGroup": 1,
 	"ingredients": {
-		"P": { "type": "block", "code": "efchefstricks:bowl-peat-*" },
-		"B": { "type": "block", "code": "game:bowl-*-fired", "returnedStack": { "type": "block", "code": "game:air" }, "name": "bowl" }
+		"P": { "type": "block", "code": "efchefstricks:bowl-peat-*", "name": "color"  },
+		"B": { "type": "block", "code": "game:bowl-*-fired", "returnedStack": { "type": "block", "code": "game:air" } }
 	},
 	"attributes": {
 		"liquidContainerProps": {
@@ -14,7 +14,7 @@
 	},
 	"width": 1,
 	"height": 2,
-	"output": { "type": "block", "code": "game:oillamp-{bowl}-up"  }
+	"output": { "type": "block", "code": "game:oillamp-{color}-up"  }
  },
  {
 	"ingredientPattern": "P,L,B",
