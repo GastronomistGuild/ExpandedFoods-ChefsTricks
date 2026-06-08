@@ -8,7 +8,7 @@
 		"R": { "type": "item", "code": "game:resin" },
 		"P": { "type": "block", "code": "game:peatbrick" }
 	},
-		"attributes": {
+   "attributes": {
 		"liquidContainerProps": {
 			"requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-*" },
 			"requiresLitres": 0.2
@@ -27,7 +27,7 @@
 		"R": { "type": "item", "code": "game:resin" },
 		"P": { "type": "block", "code": "game:peatbrick" }
 	},
-		"attributes": {
+   "attributes": {
 		"liquidContainerProps": {
 			"requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-*" },
 			"requiresLitres": 0.2
@@ -46,7 +46,7 @@
 		"R": { "type": "item", "code": "game:beeswax" },
 		"P": { "type": "block", "code": "game:peatbrick" }
 	},
-		"attributes": {
+   "attributes": {
 		"liquidContainerProps": {
 			"requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-*" },
 			"requiresLitres": 0.2
@@ -65,7 +65,7 @@
 		"R": { "type": "item", "code": "game:beeswax" },
 		"P": { "type": "block", "code": "game:peatbrick" }
 	},
-		"attributes": {
+   "attributes": {
 		"liquidContainerProps": {
 			"requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-*" },
 			"requiresLitres": 0.2

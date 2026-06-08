@@ -1,5 +1,13 @@
 ﻿~ 1.0.0-dev.2
 - Bowl of peat changed into lamp of peat
+- More Candles integrated?
 
 ~ 1.0.0-dev.1
-SALT MAKING ADDED
+Added:
+- Salt production
+- Resin tapping
+- Bread crumb animal feed
+- Washed eggshells
+- Mechanical recipes
+- Oil lamps/candles
+- Bowl of peat removed; oil lamp recipes changed from EF Core
