@@ -1,6 +1,9 @@
-﻿~ 1.0.0-dev.2
+﻿~ 1.0.0-dev.3
 - Bowl of peat changed into lamp of peat
 - More Candles integrated?
+
+~ 1.0.0-dev.2
+- Breadcrumb animal feed actually works in troughs now
 
 ~ 1.0.0-dev.1
 Added:
