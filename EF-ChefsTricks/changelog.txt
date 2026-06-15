@@ -4,7 +4,8 @@
 
 ~ 1.0.0-dev.3
 - Brine no longer causes crashes in the handbook
-
+- Simplified Chinese translation added (thanks to Aimli!)
+- Russian translation added (thanks to ChimMAG!)
 
 ~ 1.0.0-dev.2
 - Breadcrumb animal feed actually works in troughs now
