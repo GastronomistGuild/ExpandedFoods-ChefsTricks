@@ -2,6 +2,10 @@
 - Bowl of peat changed into lamp of peat
 - More Candles integrated?
 
+~ 1.0.0-dev.3
+- Brine no longer causes crashes in the handbook
+
+
 ~ 1.0.0-dev.2
 - Breadcrumb animal feed actually works in troughs now
 
