@@ -1,5 +1,6 @@
-﻿~ 1.0.0-dev.3
+﻿~ 1.0.0-dev.4
 - Bowl of peat changed into lamp of peat
+- Mechanical recipes pushed out into separate files; should fix bug where empty buckets could make items - DONE!!!
 - More Candles integrated?
 
 ~ 1.0.0-dev.3
