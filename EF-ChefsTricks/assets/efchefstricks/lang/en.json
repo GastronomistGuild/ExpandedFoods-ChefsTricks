@@ -15,7 +15,7 @@
   "game:incontainer-item-softresin": "Fresh resin",
   "incontainer-item-resin": "resin",
   "game:incontainer-item-resin": "resin",
-  "itemdesc-softresin": "Needs 700-1000 mL and 10 days to harden into <a href=\"handbook://item-efchefstricks:hardresin\">resin</a>.",
+  "itemdesc-softresin": "Needs 1 L and 10 days to harden into <a href=\"handbook://item-efchefstricks:hardresin\">resin</a>.",
   "item-handbooktitle-softresin": "Fresh Resin",
   "item-handbooktext-softresin": "Collected by placing a <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">spile</a> into an acacia or pine log and a liquid container directly beneath it.<br>Pine trees produce resin from March to November.<br>Acacia trees produce resin from April to September.",
 
