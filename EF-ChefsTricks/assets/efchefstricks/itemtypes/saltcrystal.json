@@ -16,7 +16,15 @@
 				"startScaleY": 1,
 				"endScaleY": 1,
 				"resultCode":  "efchefstricks:saltcrystal-dry"
-			}
+			},
+            "*-dry": {
+                "temp": 120,
+                "levelFrom": 0.75,
+                "levelTo": 1,
+                "startScaleY": 1,
+                "endScaleY": 1,
+                "initialCode":  "efchefstricks:saltcrystal-damp"
+            }
         },
         "handbook": {
             "extraSections": 

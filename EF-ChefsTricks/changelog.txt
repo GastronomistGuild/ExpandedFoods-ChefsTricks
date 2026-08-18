@@ -1,7 +1,9 @@
-﻿~ 1.0.0-dev.4
-- Bowl of peat changed into lamp of peat
-- Mechanical recipes pushed out into separate files; should fix bug where empty buckets could make items - DONE!!!
+﻿~ 1.0.0-dev.5
 - More Candles integrated?
+
+~ 1.0.0-dev.4
+- Mechanical recipes pushed out into separate files; should fix bug where empty buckets could make items
+- Dry salt crystals appear correctly in oven
 
 ~ 1.0.0-dev.3
 - Brine no longer causes crashes in the handbook
