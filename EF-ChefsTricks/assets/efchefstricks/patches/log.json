@@ -5,37 +5,33 @@
     "value": {
       "log-grown-pine-ud": {
         "sap": "efchefstricks:softresin",
-        "dripCount": 1,
-        "dripChance": 1,
-        "dripTime": 3,
-        "seasons": [
-          11,
-          10,
-          9,
-          8,
-          7,
-          6,
-          5,
-          4,
-          3
-        ]
+        "dripLitres": 1,
+        "boostedDripLitres": 2,
+        "dripHours": 3,
+        "temperatureRange": [ -8, 40 ]
       },
       "log-grown-acacia-ud": {
         "sap": "efchefstricks:softresin",
-        "dripCount": 1,
-        "dripChance": 1,
-        "dripTime": 1,
-        "seasons": [
-          9,
-          8,
-          7,
-          6,
-          5,
-          4
-        ]
+        "dripLitres": 1,
+        "boostedDripLitres": 2,
+        "dripHours": 1
       }
     },
     "side": "server",
     "file": "game:blocktypes/wood/woodtyped/log.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/log-resinharvested-*",
+    "value": {
+      "sapProperties": {
+        "sap": "efchefstricks:softresin",
+        "dripLitres": 1,
+        "boostedDripLitres": 2,
+        "dripHours": 3
+      }
+    },
+    "side": "server",
+    "file": "game:blocktypes/wood/woodtyped/log-withresin.json"
   }
 ]
