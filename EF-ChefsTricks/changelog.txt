@@ -1,5 +1,6 @@
 ~1.0.0-dev.6
 - More Candles integrated?
+- Hardened lard removed from recipes - DONE!!!
 
 ~ 1.0.0-dev.5
 - Remove hard lard recipes (thanks to Lazula!)
