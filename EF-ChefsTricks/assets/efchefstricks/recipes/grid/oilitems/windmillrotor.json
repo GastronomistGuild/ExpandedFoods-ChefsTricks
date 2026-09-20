@@ -138,19 +138,5 @@
         "width": 3,
         "height": 3,
         "output": { "type": "block", "code": "game:windmillrotor-wood-north", "quantity": 1 }
-    },
-    {
-        "ingredientPattern": "_H_,_C_,RSW",
-        "recipeGroup": 2,
-        "ingredients": {
-            "H": { "type": "item", "code": "game:hammer-*", "isTool": true },
-            "C": { "type": "item", "code": "game:chisel-*", "isTool": true },
-            "R": { "type": "item", "code": "game:resin" },
-            "S": { "type": "block", "code": "game:log-placed-*-ud", "name": "wood", "quantity": 2 },
-            "W": { "type": "block", "code": "expandedfoods:hardlard", "quantity":  2 }
-        },
-        "width": 3,
-        "height": 3,
-        "output": { "type": "block", "code": "game:windmillrotor-wood-north", "quantity": 1 }
     }
 ]

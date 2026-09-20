@@ -131,18 +131,5 @@
     "width": 2,
     "height": 3,
     "output": { "type": "block", "code": "game:woodenaxle-ud", "quantity": 2 }
-  },
-  {
-    "ingredientPattern": "H_,C_,SW",
-    "recipeGroup": 2,
-    "ingredients": {
-      "H": { "type": "item", "code": "game:hammer-*", "isTool": true },
-      "C": { "type": "item", "code": "game:chisel-*", "isTool": true },
-      "S": { "type": "block", "code": "game:log-placed-*-ud", "name": "wood" },
-      "W": { "type": "block", "code": "expandedfoods:hardlard", "quantity":  2 }
-    },
-    "width": 2,
-    "height": 3,
-    "output": { "type": "block", "code": "game:woodenaxle-ud", "quantity": 2 }
   }
 ]

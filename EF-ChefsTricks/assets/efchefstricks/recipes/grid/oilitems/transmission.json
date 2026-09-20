@@ -173,21 +173,5 @@
     "width": 3,
     "height": 3,
     "output": { "type": "block", "code": "game:transmission-ns", "quantity": 1 }
-  },
-  {
-    "ingredientPattern": "HCX,GPG,RW_",
-    "recipeGroup": 2,
-    "ingredients": {
-      "H": { "type": "item", "code": "game:hammer-*", "isTool": true },
-      "C": { "type": "item", "code": "game:chisel-*", "isTool": true },
-      "X": { "type": "item", "code": "game:saw-*", "isTool": true },
-      "G": { "type": "block", "code": "game:angledgears-s" },
-      "P": { "type": "item", "code": "game:plank-*", "name": "wood", "quantity": 8 },
-      "R": { "type": "item", "code": "game:resin", "quantity": 2 },
-      "W": { "type": "block", "code": "expandedfoods:hardlard", "quantity":  2 }
-    },
-    "width": 3,
-    "height": 3,
-    "output": { "type": "block", "code": "game:transmission-ns", "quantity": 1 }
   }
 ]

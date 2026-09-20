@@ -74,31 +74,5 @@
 	"width": 3,
 	"height": 3,
 	"output": { "type": "item", "code": "game:candle", "quantity": 3  }
- },
-  {
-	"ingredientPattern": "SWS,RWR,PWP",
-	"recipeGroup": 3,
-	"ingredients": {
-		"S": { "type": "block", "code": "expandedfoods:hardlard" },
-		"W": { "type": "item", "code": "game:rope" },
-		"R": { "type": "item", "code": "game:resin" },
-		"P": { "type": "block", "code": "superfuel:peatbrick-*" }
-	},
-	"width": 3,
-	"height": 3,
-	"output": { "type": "item", "code": "game:candle", "quantity": 3  }
- },
- {
-	"ingredientPattern": "SWS,RWR,PWP",
-	"recipeGroup": 3,
-	"ingredients": {
-		"S": { "type": "block", "code": "expandedfoods:hardlard"},
-		"W": { "type": "item", "code": "game:rope" },
-		"R": { "type": "item", "code": "game:beeswax" },
-		"P": { "type": "block", "code": "superfuel:peatbrick-*" }
-	},
-	"width": 3,
-	"height": 3,
-	"output": { "type": "item", "code": "game:candle", "quantity": 3  }
  }
 ]
