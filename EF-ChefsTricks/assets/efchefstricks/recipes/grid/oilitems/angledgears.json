@@ -152,21 +152,5 @@
     "width": 3,
     "height": 3,
     "output": { "type": "block", "code": "game:angledgears-s", "quantity": 1 }
-  },
-  {
-    "ingredientPattern": "HX_,PCP,RSW",
-    "recipeGroup": 2,
-    "ingredients": {
-      "X": { "type": "item", "code": "game:saw-*", "isTool": true },
-      "H": { "type": "item", "code": "game:hammer-*", "isTool": true },
-      "C": { "type": "item", "code": "game:chisel-*", "isTool": true },
-      "S": { "type": "block", "code": "game:log-placed-*-ud", "name": "wood" },
-      "R": { "type": "item", "code": "game:resin" },
-      "P": { "type": "item", "code": "game:stick" },
-      "W": { "type": "block", "code": "expandedfoods:hardlard", "quantity":  2 }
-    },
-    "width": 3,
-    "height": 3,
-    "output": { "type": "block", "code": "game:angledgears-s", "quantity": 1 }
   }
 ]

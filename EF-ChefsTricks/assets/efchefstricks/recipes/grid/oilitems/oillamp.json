@@ -34,17 +34,5 @@
     "width": 1,
     "height": 3,
     "output": { "type": "block", "code": "game:oillamp-{color}-up"  }
-  },
- {
-	"ingredientPattern": "P,L,B",
-	"recipeGroup": 2,
-	"ingredients": {
-		"P": { "type": "block", "code": "game:peatbrick" },
-		"L": { "type": "block", "code": "expandedfoods:hardlard", "quantity": 2 },
-        "B": { "type": "block", "code": "game:oillamp-genie-*-fired", "name": "color" }
-	},
-	"width": 1,
-	"height": 3,
-    "output": { "type": "block", "code": "game:oillamp-{color}-up"  }
- }
+  }
 ]
