@@ -1,5 +1,6 @@
 [
  {
+   "enabled": false,
   "ingredientPattern": "ASG", 
   "recipeGroup": 1,
   "ingredients": {
@@ -17,8 +18,9 @@
   "height": 1,
   "shapeless": true,
   "output": { "type": "item", "code": "superfuel:firelog", "quantity": 8 }
- }
+ },
  {
+   "enabled": false,
   "ingredientPattern": "ASG",
   "recipeGroup": 3,
   "ingredients": {
