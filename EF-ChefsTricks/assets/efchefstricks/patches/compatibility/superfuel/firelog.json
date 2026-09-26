@@ -1,0 +1,16 @@
+[
+    {
+        "file": "recipes/grid/superfuel/firelog.json",
+        "path": "/0/enabled",
+        "op": "replace",
+        "value": true,
+        "dependsOn": [{ "modid": "superfuel" }]
+    },
+    {
+        "file": "recipes/grid/superfuel/firelog.json",
+        "path": "/1/enabled",
+        "op": "replace",
+        "value": true,
+        "dependsOn": [{ "modid": "superfuel" }]
+    }
+]

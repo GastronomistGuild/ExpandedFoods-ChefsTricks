@@ -34,5 +34,41 @@
     "width": 1,
     "height": 3,
     "output": { "type": "block", "code": "game:oillamp-{color}-up"  }
-  }
+  },
+  {
+	"ingredientPattern": "P,L,B",
+	"recipeGroup": 1,
+	"ingredients": {
+		"P": { "type": "block", "code": "game:peatbrick" },
+		"L": { "type": "block", "code": "game:jug-*-fired", "returnedStack": { "type": "block", "code": "game:air" } },
+        "B": { "type": "block", "code": "game:oillamp-genie-*-fired", "name": "color" }
+    },
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-*" },
+			"requiresLitres": 0.2
+		}
+	},
+	"width": 1,
+	"height": 3,
+	"output": { "type": "block", "code": "game:oillamp-{color}-up"  }
+ },
+  {
+	"ingredientPattern": "P,L,B",
+	"recipeGroup": 1,
+	"ingredients": {
+		"P": { "type": "block", "code": "game:peatbrick" },
+		"L": { "type": "block", "code": "game:woodbucket", "returnedStack": { "type": "block", "code": "game:air" } },
+        "B": { "type": "block", "code": "game:oillamp-genie-*-fired", "name": "color" }
+    },
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-*" },
+			"requiresLitres": 0.2
+		}
+	},
+	"width": 1,
+	"height": 3,
+	"output": { "type": "block", "code": "game:oillamp-{color}-up"  }
+ }
 ]

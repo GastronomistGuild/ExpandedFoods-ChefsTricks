@@ -1,0 +1,30 @@
+[
+    {
+        "file": "recipes/grid/superfuel/oilcandle.json",
+        "path": "/0/enabled",
+        "op": "replace",
+        "value": true,
+        "dependsOn": [{ "modid": "superfuel" }]
+    },
+    {
+        "file": "recipes/grid/superfuel/oilcandle.json",
+        "path": "/1/enabled",
+        "op": "replace",
+        "value": true,
+        "dependsOn": [{ "modid": "superfuel" }]
+    },
+    {
+        "file": "recipes/grid/superfuel/oilcandle.json",
+        "path": "/2/enabled",
+        "op": "replace",
+        "value": true,
+        "dependsOn": [{ "modid": "superfuel" }]
+    },
+    {
+        "file": "recipes/grid/superfuel/oilcandle.json",
+        "path": "/3/enabled",
+        "op": "replace",
+        "value": true,
+        "dependsOn": [{ "modid": "superfuel" }]
+    }
+]
