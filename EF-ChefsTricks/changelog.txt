@@ -1,5 +1,8 @@
-﻿~ 1.0.0-dev.6
+﻿~ 1.0.0-dev.XX
 - More Candles integrated?
+
+~ 1.0.0-dev.6
+- Spile resin production adjusted, lower end of temperature ranges raised (thanks to Lazula!)
 
 ~ 1.0.0-dev.5
 Lazula fixes:
