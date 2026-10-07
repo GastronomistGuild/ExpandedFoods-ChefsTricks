@@ -5,15 +5,13 @@
     "value": {
       "log-grown-pine-ud": {
         "sap": "efchefstricks:softresin",
-        "dripLitres": 0.01,
-        "boostedDripLitres": 2,
         "dripHours": 3,
-        "temperatureRange": [ -8, 40 ]
+        "temperatureRange": [ 5, 40 ]
       },
       "log-grown-acacia-ud": {
         "sap": "efchefstricks:softresin",
-        "dripLitres": 1,
-        "dripHours": 1
+        "dripHours": 1,
+        "temperatureRange": [ 8, 40 ]
       }
     },
     "side": "server",
@@ -25,8 +23,7 @@
     "value": {
       "sapProperties": {
         "sap": "efchefstricks:softresin",
-        "dripLitres": 0.01,
-        "dripHours": 3
+        "dripHours": 1
       }
     },
     "side": "server",
